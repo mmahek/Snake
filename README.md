@@ -63,7 +63,7 @@ Pure Java OOP implementation
 | IDE       | IntelliJ IDEA |
 
 
-▶️ Run Instructions
+▶️ Run Instructions ->
 git clone https://github.com/mmahekk/SlitherX.git
 cd SlitherX
 # Open in IntelliJ and run Main.java
@@ -76,14 +76,14 @@ cd SlitherX
 | ⬅   | Move Left  |
 | ➡   | Move Right |
 
-✨ Future Enhancements
+✨ Future Enhancements ->
 🎵 Sound effects
 🧱 Walls / Maze mode
 🏆 High Score storage
 🌈 Themes + Snake skins
 📱 Android GUI version (JavaFX or LibGDX)
 
-👩‍💻 Developer: 
-Mahek 
-🔗 LinkedIn: mmahekk24
+👩‍💻 Developer -> 
+Mahek --
+🔗 LinkedIn: mmahekk24 --
 📦 GitHub: mmahekk
