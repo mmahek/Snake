@@ -1,6 +1,6 @@
 🐍 SlitherX – Classic Snake Game (Java)
 
-![SlitherX Gameplay](assets/gameplay.png)
+![SlitherX Gameplay](slitherX.png)
 
 SlitherX is a modern take on the classic Snake game built using Java Swing.
 Eat food → Grow → Score high — but don’t crash! 🚀
@@ -83,7 +83,7 @@ cd SlitherX
 🌈 Themes + Snake skins
 📱 Android GUI version (JavaFX or LibGDX)
 
-👩‍💻 Developer
+👩‍💻 Developer: 
 Mahek 
 🔗 LinkedIn: mmahekk24
 📦 GitHub: mmahekk
