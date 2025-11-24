@@ -1,4 +1,13 @@
-🐍 SlitherX – Classic Snake Game (Java)
+# 🐍 SlitherX – Classic Snake Game (Java)
+
+![Java](https://img.shields.io/badge/Java-11+-red)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20MacOS-lightgrey)
+![UI](https://img.shields.io/badge/UI-Java%20Swing-orange)
+![Stars](https://img.shields.io/github/stars/mmahekk/SlitherX?style=social)
+![Forks](https://img.shields.io/github/forks/mmahekk/SlitherX?style=social)
+![Issues](https://img.shields.io/github/issues/mmahekk/SlitherX)
+
 
 ![SlitherX Gameplay](slitherX.png)
 
