@@ -14,6 +14,7 @@
 SlitherX is a modern take on the classic Snake game built using Java Swing.
 Eat food → Grow → Score high — but don’t crash! 🚀
 🧠 UML Class Diagram
+```
 classDiagram
     class GamePanel {
         - int[] snakeX
@@ -39,10 +40,11 @@ classDiagram
         + spawn()
         + draw(Graphics)
     }
-
+```
     GamePanel --> Food : uses
     Main --> GamePanel : creates
 🔁 Game Flow Diagram
+```
 flowchart TD
     A[Start Game] --> B[Initialize Snake + Food]
     B --> C[User Input Controls Direction]
@@ -56,14 +58,15 @@ flowchart TD
     G --> I[Restart Option]
     I -->|Restart| A
     I -->|Quit| J[Exit]
-    
+```
 🚀 Features
+```
 Smooth movement & fast rendering
 Score counter updates in real time
 Randomized food spawning
 Collision detection with boundaries + body
 Pure Java OOP implementation
-
+```
 🛠 Tech Stack
 | Component | Tech Used     |
 | --------- | ------------- |
@@ -72,11 +75,12 @@ Pure Java OOP implementation
 | IDE       | IntelliJ IDEA |
 
 
-▶️ Run Instructions ->
+▶️ Run Instructions 
+```
 git clone https://github.com/mmahekk/SlitherX.git
 cd SlitherX
 # Open in IntelliJ and run Main.java
-
+```
 🎯 Controls
 | Key | Action     |
 | --- | ---------- |
